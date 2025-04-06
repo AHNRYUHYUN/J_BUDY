@@ -1,9 +1,9 @@
 <?php
 // 데이터베이스 연결
-$servername = "localhost";
-$username = "user";
-$password = "12345";
-$dbname = "jbuddy";
+$servername = "     ";
+$username = "    ";
+$password = "     ";
+$dbname = "     ";
 
 // 데이터베이스 연결
 $conn = new mysqli($servername, $username, $password, $dbname);
